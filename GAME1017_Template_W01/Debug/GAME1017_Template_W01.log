@@ -1,0 +1,216 @@
+﻿  Animator.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Archer.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Archer.cpp(23,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Archer.cpp(24,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Archer.cpp(25,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Archer.cpp(26,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Archer.cpp(28,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Archer.cpp(251): error C2102: '&' requires l-value
+  Background.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Arrow.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Arrow.cpp(21,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Boss.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Boss.cpp(24,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Boss.cpp(25,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Boss.cpp(33,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Boss.cpp(99,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Boss.cpp(142,25): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Boss.cpp(318,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Boss.cpp(322,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BossHealthbar.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Button.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  CDBar.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\CDBar.cpp(21): error C2102: '&' requires l-value
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\CDBar.cpp(27,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\CDBar.cpp(27,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\CDBar.cpp(35): error C2102: '&' requires l-value
+  CollisionManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  DebugManager.cpp
+  Enemies.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Enemies.cpp(104,31): warning C4244: '=': conversion from 'float' to 'Uint32', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Enemies.cpp(111,18): warning C4244: '=': conversion from 'float' to 'Uint32', possible loss of data
+  EnemyManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Engine.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Entity.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Entity.cpp(68,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Entity.cpp(70,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Entity.cpp(78,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Entity.cpp(80,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EventManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Fireball.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Level.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Level.cpp(143,25): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Level.cpp(258,25): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Level.cpp(405,25): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  MapObject.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(57,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(58,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(64,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(65,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(155,3): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(174,16): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(202,16): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.cpp(254,16): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  MapObjectManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  MoveManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(25,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(33,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(40,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(44,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(69,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(74,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(79,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(104,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(105,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(115,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MoveManager.cpp(116,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Projectile.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Projectile.cpp(23,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  FontManager.cpp
+  PlatformPlayer.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\PlatformPlayer.h(16,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ProjectileManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  ScrollingManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\ScrollingManager.cpp(29,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\ScrollingManager.cpp(30,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SoulBar.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\SoulBar.cpp(21): error C2102: '&' requires l-value
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\SoulBar.cpp(27,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\SoulBar.cpp(27,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\SoulBar.cpp(35): error C2102: '&' requires l-value
+  SoundManager.cpp
+  Sprite.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Sprite.cpp(18,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Sprite.cpp(19,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  StateManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Label.cpp
+  Main.cpp
+  MathManager.cpp
+  States.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\States.cpp(469,20): warning C4018: '<': signed/unsigned mismatch
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\States.cpp(517,20): warning C4018: '<': signed/unsigned mismatch
+  Swordman.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Swordman.cpp(24,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Swordman.cpp(25,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Swordman.cpp(27,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Swordman.cpp(28,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Swordman.cpp(30,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\Swordman.cpp(244): error C2102: '&' requires l-value
+  TextureManager.cpp
+  UIObject.cpp
+  UIObjectManager.cpp
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(46,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(88,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+E:\C++项目\2020 Spring\Horn and Honor\GAME1017_Template_W01\MapObject.h(89,24): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Generating Code...

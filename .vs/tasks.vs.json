@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-GAME1017_Template_W01",
+      "appliesTo": "GAME1017_Template_W01.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Main",
+      "appliesTo": "GAME1017_Template_W01/Main.cpp",
+      "type": "launch"
+    }
+  ]
+}
