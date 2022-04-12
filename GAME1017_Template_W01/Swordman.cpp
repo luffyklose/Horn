@@ -240,8 +240,9 @@ void Swordman::Update()
 void Swordman::Render()
 {
 	m_pText = TextureManager::GetTexture("Swordman");
+	SDL_Rect tempRect = MAMA::ConvertFRect2Rect(m_dst);
 
-	SDL_RenderCopy(m_pRend, m_pText, &m_src, &MAMA::ConvertFRect2Rect(m_dst));
+	SDL_RenderCopy(m_pRend, m_pText, &m_src, &tempRect);
 }
 
 void Swordman::attack()

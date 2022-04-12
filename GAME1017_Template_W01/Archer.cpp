@@ -247,8 +247,9 @@ void Archer::Update()
 void Archer::Render()
 {
 	m_pText = TextureManager::GetTexture("Archer");
+	SDL_Rect tempRect = MAMA::ConvertFRect2Rect(m_dst);
 	
-	SDL_RenderCopy(m_pRend, m_pText, &m_src, &MAMA::ConvertFRect2Rect(m_dst));
+	SDL_RenderCopy(m_pRend, m_pText, &m_src, &tempRect);
 }
 
 void Archer::attack()

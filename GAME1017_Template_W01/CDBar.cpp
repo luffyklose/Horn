@@ -18,7 +18,8 @@ void CDBarBorder::Render()
 {
 	if (isDisplay == true)
 	{
-		SDL_RenderCopy(m_pRend, TextureManager::GetTexture("SoulBarBorder"), &m_src, &MAMA::ConvertFRect2Rect(m_dst));
+		SDL_Rect tempRect = MAMA::ConvertFRect2Rect(m_dst);
+		SDL_RenderCopy(m_pRend, TextureManager::GetTexture("SoulBarBorder"), &m_src, &tempRect);
 	}
 }
 
@@ -32,6 +33,7 @@ void CDBarFiller::Render()
 {
 	if (isDisplay == true)
 	{
-		SDL_RenderCopy(m_pRend, TextureManager::GetTexture("SoulBarFiller"), &m_src, &MAMA::ConvertFRect2Rect(m_dst));
+		SDL_Rect tempRect = MAMA::ConvertFRect2Rect(m_dst);
+		SDL_RenderCopy(m_pRend, TextureManager::GetTexture("SoulBarFiller"), &m_src, &tempRect);
 	}
 }
